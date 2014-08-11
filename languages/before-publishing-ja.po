@@ -1,0 +1,25 @@
+# Copyright (C) 2014 One Step Before Publishing
+# This file is distributed under the same license as the One Step Before Publishing package.
+msgid ""
+msgstr ""
+"Project-Id-Version: One Step Before Publishing\n"
+"POT-Creation-Date: 2014-08-10 22:00+0900\n"
+"PO-Revision-Date: 2014-08-11 22:41+0900\n"
+"Last-Translator: rakuishi <rakuishi@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"X-Generator: Poedit 1.6.7\n"
+
+#. Description of the plugin/theme
+msgid ""
+"One Step Before Publishing is a WordPress plugin that display comfirmation "
+"dialog before publishing."
+msgstr ""
+"記事を公開するボタンを押した際に、確認アラートが表示されるようになります。"
+
+#: confirm-publishing.php:34
+msgid "Are you SURE you want to publish this post?"
+msgstr "記事を公開してもよろしいですか？"
